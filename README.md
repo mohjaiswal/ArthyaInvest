@@ -3,7 +3,7 @@
 # Investment Data Structuring Model
 
 ## Overview
-This repository hosts a sophisticated model designed to structure unstructured data for comprehensive investment analysis. Our approach integrates diverse data sources like Stock Exchange Filings, Company News, DRHPs, Annual Reports, and Regulatory Filings. The model also incorporates market sentiment analysis, adding a critical dimension to investment strategies.
+This repository hosts a sophisticated model designed to structure unstructured data for comprehensive investment analysis. Our approach integrates diverse data sources like Stock Exchange Filings, Company News, DRHPs, Annual Reports, and Regulatory Filings. The model aims to incorporates market sentiment analysis, adding a critical dimension to investment strategies in the near future.
 
 ## Features
 - **Data Integration:** Seamlessly assimilates various financial data sources.
